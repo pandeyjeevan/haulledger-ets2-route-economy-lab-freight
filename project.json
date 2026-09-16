@@ -1,0 +1,41 @@
+{
+  "id": 15,
+  "category": "game-offline",
+  "slug": "ets2-route-economy-lab",
+  "target": "Euro Truck Simulator 2",
+  "appid": "227300",
+  "summaryRu": "Спецификация офлайн-помощника тестирования маршрутов и экономики отдельного профиля.",
+  "features": [
+    "Route cost scenarios",
+    "Garage budget worksheets",
+    "Profile snapshot notes"
+  ],
+  "title": "HaulLedger — Euro Truck Simulator 2 — Freight",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "HaulLedger",
+  "repositoryName": "haulledger-ets2-route-economy-lab-freight",
+  "githubTopics": [
+    "euro-truck-simulator-2",
+    "route-planning",
+    "transport-economy",
+    "profile-backup",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "freight"
+}
